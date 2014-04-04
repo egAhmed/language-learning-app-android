@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">SampleApp</string>
+    <string name="copyright">© 2014 SomeCompany &lt;1.0.0></string>
+
+    <!-- Action Bar -->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_language">Language</string>
+
+    <!-- String items for the Drawer -->
+    <!-- Separator means that the item should be ignored - Eric -->
+    <string-array name="drawer_strings">
+        <item>Separator</item>
+        <item>Separator</item>
+        <item>Home</item>
+        <item>Courses</item>
+        <item>Search</item>
+        <item>Separator</item>
+        <item>Membership</item>
+        <item>Preferences</item>
+        <item>Support</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!-- Settings -->
+    <string name="settings_general">General Settings</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_content_cache">Content Cache</string>
+    <string name="settings_account">Account Information</string>
+
+</resources>

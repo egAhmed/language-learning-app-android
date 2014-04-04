@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings for all things related the REST Api -->
+    <string name="host_url">http://api.iknow.jp/</string>
+    <string name="single_item_path">items/%1$d.json</string>
+    <string name="single_item_for_goal_path">goals/%1$d/items/%2$d.json</string>
+    <string name="items_for_goal_path">goals/%1$s/items.json</string>
+    <string name="goal_path">goals/%1$s.json</string>
+</resources>

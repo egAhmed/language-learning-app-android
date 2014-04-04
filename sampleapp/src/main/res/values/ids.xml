@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drawer -->
+    <item name="drawer_container" type="id" />
+    <item name="drawer_list" type="id" />
+    <item name="drawer_profile" type="id" />
+    <item name="drawer_profile_img" type="id" />
+    <item name="drawer_profile_name" type="id" />
+    <item name="drawer_item_text" type="id" />
+    <item name="drawer_item_icon" type="id" />
+    <item name="drawer_footer" type="id" />
+
+    <!-- Action Bar -->
+    <item name="action_refresh" type="id" />
+    <item name="action_language" type="id" />
+
+    <!-- Settings -->
+    <item name="settings_general" type="id" />
+    <item name="settings_notifications" type="id" />
+    <item name="settings_content_cache" type="id" />
+    <item name="settings_account" type="id" />
+
+    <!-- Goal Items Viewer -->
+    <item name="goal_name_text" type="id" />
+    <item name="goal_description_text" type="id" />
+    <item name="goal_image" type="id" />
+    <item name="goal_items_list" type="id" />
+    <item name="goal_items_progress" type="id" />
+
+    <!-- Goal Item View -->
+    <item name="item_text" type="id" />
+    <item name="item_type" type="id" />
+    <item name="item_transliterations" type="id" />
+    <item name="item_meaning" type="id" />
+</resources>
